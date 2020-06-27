@@ -18,6 +18,8 @@
     </properties>
     <modules>
         <module>test-spring</module>
+        <module>test-jobs</module>
+        <module>test-code</module>
     </modules>
 
     <build>
