@@ -2,7 +2,7 @@ package video2;
 
 public class QuickSort {
     public static void main(String[] args) {
-        int array[] = {1, 7, 5, 7, 6, 3, 9};
+        int array[] = {7, 7, 5, 7, 6, 3, 9};
         quickSort(array);
         MergeSort.printArray(array);
     }
