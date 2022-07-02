@@ -23,7 +23,7 @@ public class Code215 {
         int k = 1;
         Code215 code215 = new Code215();
         System.out.println(code215.findKthLargestV1(nums, k));
-        System.out.println(code215.heapSort(nums,k));
+        System.out.println(code215.heapSort(nums, k));
     }
 
 
