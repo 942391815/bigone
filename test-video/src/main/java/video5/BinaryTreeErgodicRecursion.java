@@ -13,7 +13,7 @@ public class BinaryTreeErgodicRecursion {
         TreeNode treeNode = BinaryTree.buildTree();
 //        pre(treeNode);
 //        middle(treeNode);
-        after(treeNode);
+//        after(treeNode);
     }
 
     public static void pre(TreeNode treeNode) {
